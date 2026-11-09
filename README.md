@@ -54,3 +54,7 @@ Everything a kid cares about lives in a few arrays near the top of the script:
 ## Licence
 
 MIT.
+
+## License
+
+© 2026 Jason Beyer, RJ Ed Tech. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/): free to share and adapt for non-commercial use with credit. See [LICENSE](LICENSE) for what the license does not cover.
